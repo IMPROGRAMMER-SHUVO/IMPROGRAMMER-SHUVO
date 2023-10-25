@@ -44,7 +44,7 @@ n="left"> <img src="https://komarev.com/ghpvc/?username=improgrammer-shuvo&label
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shuvo-dey-063aa0216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shuvo-dey-063aa0216/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22346369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22346369" height="30" width="40" /></a>
 <a href="https://kaggle.com/shuvo-61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuvo-61" height="30" width="40" /></a>
-<a href="[https://fb.com/shu vo](https://www.facebook.com/profile.php?id=100022475093023)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shu vo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100022475093023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shu vo" height="30" width="40" /></a>
 <a href="https://instagram.com/arfinshuvo486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arfinshuvo486" height="30" width="40" /></a>
 </p>
 
