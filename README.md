@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **shuvodey1102@gmail.com**
 
@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/user:22346369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22346369" height="30" width="40" /></a>
 <a href="https://kaggle.com/shuvo-61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuvo-61" height="30" width="40" /></a>
 <a href="https://fb.com/shu vo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shu vo" height="30" width="40" /></a>
-<a href="https://instagram.com/arfinshuvo486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arfinshuvo486" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,14 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=improgrammer-shuvo&" alt="improgrammer-shuvo" /></p>
 n="left"> <img src="https://komarev.com/ghpvc/?username=improgrammer-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="improgrammer-shuvo" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **shuvodey1102@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shuvo-dey-063aa0216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shuvo-dey-063aa0216/" height="30" width="40" /></a>
