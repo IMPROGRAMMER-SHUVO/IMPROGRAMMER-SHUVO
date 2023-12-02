@@ -29,5 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=improgrammer-shuvo&show_icons=true&locale=en" alt="improgrammer-shuvo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=improgrammer-shuvo&" alt="improgrammer-shuvo" /></p>
-n="left"> <img src="https://komarev.com/ghpvc/?username=improgrammer-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="improgrammer-shuvo" /> </p>
+
 
